@@ -1,0 +1,24 @@
+﻿About this Template:
+
+These templates were created by Green Jobs, green jobs destination site. 
+(They were originally going to be part of syndication systems, but after the stock market crashed that was no longer a possibility, and they were repurposed for public distribution.)
+
+-----------------------
+
+Step 1: LOAD FONTS Find the fonts folder on your computer. It lists were you can download the fonts that are used in this template. You should add the fonts to your computer font’s folder if you have not done so already.
+
+Step 2: CHANGE THE HTML TEXT: You will find text inside the HTML file that corresponds to the web site content. Much of this place holder text is “lorem ipsum” or is listed as “Demo Content”. You can change this content by using a text editor to change the content inside the HTML file.
+
+Step 3: CHANGE TEXT INCLUDED IN IMAGES THROUGH PSD FILE: In order to make a professional quality template, we needed to include some of the text in the JPEG and GIF images.  This same text can be found in the PSD files that are included in the template. You will probably need to re-cut these JPEG and GIF files from the PSD files. This is tedious, but is required to produce the highest quality web sites.
+
+Step 4: CREATING NEW PAGES: Just rename the inner.html file in any way that you wish to create new pages, and then link to these pages from the menu or interior of the web site.
+
+STEP 5: CHANGE THE TITLE TAG AND META INFORMATION: This is very important if you want the web site to work in search engines.
+
+------------------------------------
+
+WHAT CAN YOU USE THESE WEB TEMPLATES FOR:  Anything ethical - No porn, gambling or Nigerian scams.
+
+WHAT YOU CANNOT USE THIS WEB TEMPLATE FOR: Anything devious or unethical – No Porn, Gambling or stealing money from little old ladies. Please don’t redistribute this template under your own name in template web sites.
+
+WHAT ABOUT LICENSING: Templates are licensed under GNU Licensing. As long as you don’t remove the link in the footer  you are in full compliance. You’re welcome to change, modify, add to, or subtract from this template in any way as long as the link remains in place.

@@ -1,0 +1,21 @@
+You can completely modify the Flash Animation in the indexflash.html fikle
+
+1. Locate the info.xml file and open it in any text editor. I use notepad but you can use whatever you want.
+
+2. The current file has 3 scenes but you can add as many scenes as you want by clicking duplicating 
+everything between the <SCENE></SCENE> tags.
+
+2. Change Text - The text can be changed info.xml file
+
+	a. Look for the <xml_bigtext> and the <xml_smalltext> tags
+
+	b. Simply add whatever text you want in between this tag.
+
+	c. T
+
+3. Change Images - Create your own images and replate the header.jpg, header2.jpg and header3.jpg images.
+
+
+Do not redistribute the flash, template or anything else without our copyright link included in the bottom. 
+You can do whatever you want with the template as long as we are credited for our work. Removal of the copyright 
+links will result in legal action.
